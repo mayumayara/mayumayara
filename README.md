@@ -43,4 +43,3 @@
   
 </div>
 
-![Snake animation](https://github.com/mayumayara/mayumayuara/blob/output/github-contribution-grid-snake.svg)
