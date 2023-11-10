@@ -1,6 +1,6 @@
 # Hi, I'm May! ✌ 
 
-- 💼 I'm DevOps engineer with a passion for optimizing software development processes and delivering high-quality, scalable solutions.
+- 💼 I'm a Full Stack developer with a passion for optimizing software development processes and delivering high-quality, scalable solutions.
 - 📚🎓 Analysis and Development in Systems Undergraduate Program, at University Center of Brasilia (Ceub) - 2024
 - 🎓 Modern Language Undergraduate Degree, at Catholic University of Brasilia (UCB) - 2020
 
