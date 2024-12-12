@@ -1,6 +1,7 @@
 # Hi, I'm May! ✌ 
 
-- 💼 I'm a Full Stack developer JUST AS A HOBBIE.
+- 💼 I'm a TEACHER of English and Portuguese.
+- 💻 I'm a software developer JUST AS A HOBBIE.
 - 🎓 B.A. in Languages Undergraduate Degree, at Catholic University of Brasilia (UCB) - 2020
 
 ##
